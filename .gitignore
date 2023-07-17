@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# folder to ignore 
+.history/
+
 # Distribution / packaging
 .Python
 build/
