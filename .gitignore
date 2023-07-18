@@ -8,6 +8,7 @@ __pycache__/
 
 # folder to ignore 
 .history/
+.vscode/
 
 # Distribution / packaging
 .Python
